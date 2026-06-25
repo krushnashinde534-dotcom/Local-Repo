@@ -10,6 +10,7 @@ int main(){
      } else {
     cout<<"Odd Number";
         }
-    
+        cout<<"Thank you!";
+        cout<<"Thank you friend!";
     return 0;
-}
+    }
