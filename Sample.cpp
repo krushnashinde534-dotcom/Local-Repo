@@ -10,6 +10,6 @@ int main()
             cout<<i<<endl;
         }
     }
-    cout<<"Thank you!";
+    cout<<"Thank you friends!";
     return 0;
 }
